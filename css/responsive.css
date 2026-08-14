@@ -1,6 +1,5 @@
 /* ======== Extra Small Start ======== */
 @media (max-width: 575.99px) {
-  /* Global Styles */
   .container {
     padding: 0 15px;
   }
